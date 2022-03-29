@@ -5,7 +5,7 @@ from aiogram.types.message import ContentTypes
 from aiogram.utils import executor
 
 
-BOT_TOKEN = '5145769334:AAE1Eaf7_2tPHWEkYCQ2Pl9Fdn_24mhDqUs'
+BOT_TOKEN = 'Telegeam TOKEN here'
 PAYMENTS_PROVIDER_TOKEN = '123456789:TEST:1422'
 
 bot = Bot(BOT_TOKEN)
