@@ -1,0 +1,8 @@
+[Bot]
+API_TOKEN = 5145769334:AAE1Eaf7_2tPHWEkYCQ2Pl9Fdn_24mhDqUs
+admin_id = 764639236
+[Sql]
+DB_FILENAME = test_pos.db
+
+[Weather]
+OpenKey_API =
