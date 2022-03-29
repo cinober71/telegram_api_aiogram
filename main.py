@@ -21,8 +21,8 @@ try:
 except Exception as e:
     print(e)
 
-# API_TOKEN = conf.get('Bot', 'API_TOKEN') #1496305081:AAFki0-xalp2Bg_au19_1vIg7gZjz1jAgXo
-API_TOKEN = '5145769334:AAE1Eaf7_2tPHWEkYCQ2Pl9Fdn_24mhDqUs'
+# API_TOKEN = conf.get('Bot', 'API_TOKEN') 
+API_TOKEN = ''
 # chat_id = conf.get('Bot', 'chat_id')
 logging.basicConfig(format=u'%(filename)+13s [ LINE:%(lineno)-4s] %(levelname)-8s [%(asctime)s] %(message)s',
                     level=logging.DEBUG)
